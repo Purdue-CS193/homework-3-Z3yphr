@@ -4,6 +4,12 @@ Hello ME :)
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
 
+the ' git fetch' command pulls all the information from the master file to the local files,
+essentially updating them.
+
 Task 2:
 // Under this line, describe the difference between Git and GitHub
+"GitHub" is the master repository. "Git" is basically the local repository. Changes
+in "GitHub" do not necessarily show up in "Git" right away without using the
+'git fetch' command.
 
